@@ -1,3 +1,4 @@
+/* eslint-disable max-classes-per-file */
 import contains from 'dom-helpers/contains';
 import PropTypes from 'prop-types';
 import React, { cloneElement } from 'react';
